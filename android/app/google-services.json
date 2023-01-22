@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268611426289",
+    "firebase_url": "https://habilog-default-rtdb.firebaseio.com",
+    "project_id": "habilog",
+    "storage_bucket": "habilog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268611426289:android:d51dcc4ab84508120f1650",
+        "android_client_info": {
+          "package_name": "com.example.dont_kill_our_plant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268611426289-42js3jqm8p42c8p1lft6qf2jl55tkq46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxHRBUWrxMVjvkW2ufQtdtGImUauJCeoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268611426289-42js3jqm8p42c8p1lft6qf2jl55tkq46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

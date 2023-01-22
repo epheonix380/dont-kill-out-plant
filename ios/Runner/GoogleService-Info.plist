@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>268611426289-tr1g6l6nrhb66ajh1ht0opfjkbfgdv8e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.268611426289-tr1g6l6nrhb66ajh1ht0opfjkbfgdv8e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBc9BE7yx-LtKycOmU8C7Z6RlqQSN1fVHA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>268611426289</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dontKillOurPlant</string>
+	<key>PROJECT_ID</key>
+	<string>habilog</string>
+	<key>STORAGE_BUCKET</key>
+	<string>habilog.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:268611426289:ios:b9230773fef1a7ba0f1650</string>
+	<key>DATABASE_URL</key>
+	<string>https://habilog-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
